@@ -9,3 +9,4 @@ console.log(undefined == 0); // all comparsions from undefined is false only
 // === -> strictly check, also checks datatypes
 
 console.log("2" === 2);
+
